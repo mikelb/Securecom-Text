@@ -1,7 +1,7 @@
 Securecom Text
 ==============
 
-Securecom Text is a messaging app for easy private communicate with friends.
+Securecom Text is a messaging app for easy private communication with friends.
 
 Securecom Text uses SMS to communicate securely, and all Securecom Text
 messages can also be encrypted locally on your device. It is designed to
